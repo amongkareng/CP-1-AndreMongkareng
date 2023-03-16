@@ -1,4 +1,4 @@
-package com.dree13.kotlin
+package com.dree13.kotlin.`cp-1`
 
 fun main(){
     val N = IntArray(100)
